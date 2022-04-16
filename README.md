@@ -1,6 +1,8 @@
 # Getting Started with The Text Utility
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+See Demo here: [Text Utilty App](https://the-text-utility.netlify.app/)
+
+
 
 ## Available Scripts
 
