@@ -1,6 +1,6 @@
 # Getting Started with The Text Utility
 
-See Demo here: [Text Utilty App](https://the-text-utility.netlify.app/)
+See Demo here: [Text Utilty App](https://the-text-utils.netlify.app/)
 
 
 
