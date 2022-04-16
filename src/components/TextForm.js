@@ -32,10 +32,10 @@ export default function TextForm(props) {
             <div className='container my-3'>
                 <h2>Your Text Summary</h2>
                 <p>
-                    {text.split(" ").filter((ele)=>{return ele.length!=0}).length} words and {text.length} chars
+                    {text.split(" ").filter((ele)=>{return ele.length!==0}).length} words and {text.length} chars
                 </p>
                 <p>
-                    {0.008 * text.split(" ").filter((ele)=>{return ele.length!=0}).length} Minutes Read
+                    {0.008 * text.split(" ").filter((ele)=>{return ele.length!==0}).length} Minutes Read
                 </p>
 
             </div>

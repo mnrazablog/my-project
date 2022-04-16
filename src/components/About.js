@@ -10,7 +10,7 @@ export default function About() {
         }
     );
     const toggleStyle =()=>{
-        if(myStyles.color=='#fff'){
+        if(myStyles.color==='#fff'){
             setMyStyles({
                 color:"#000",
                 backgroundColor:"#fff"
